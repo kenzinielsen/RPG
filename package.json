@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kenzinielsen/RPG#readme",
   "devDependencies": {
-    "jest": "^27.2.1"
+    "jest": "^24.9.0"
   }
 }
