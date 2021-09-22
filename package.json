@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kenzinielsen/RPG#readme",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.5"
   }
 }
